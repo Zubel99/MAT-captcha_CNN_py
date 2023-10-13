@@ -1,0 +1,3 @@
+If you have mandatory python libraries installed on your main python then just click CNN_Train.py
+
+If you created virtual python environment and downloaded all the libraries there, then you need to activate your environment first, go to env folder, Scripts/activate
